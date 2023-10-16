@@ -3,8 +3,8 @@
 ### Table of Contents
 - [Main Features](#Main-Features)
 - [More details](#more-details)
-- [Demo Video](#section-1)
-- [contact me](#section-1)
+- [Demo Video](#Demo-Video)
+- [contact me](#Contact-me)
 
 #### Main Features
 • *Authentication*  
@@ -110,18 +110,8 @@ Each reservation has a unique QR code, displayed when craftman press on qr icon 
      • customers side  
   <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/f2497412-1dbf-40f0-b74c-ada1a7cbaced" width ="200">  
 
-
 #### Demo Video  
-[![Click to Watch Video](https://github.com/AliEl-Saka/7erfa-App/assets/125530187/bf3d9549-948c-4b9e-ae91-de98707b7944)](https://www.linkedin.com/posts/ali-el-saka-95a752273_%D9%88%D9%83%D8%A7%D9%86-%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%83-%D8%B9%D8%B8%D9%8A%D9%85%D8%A7-my-graduation-activity-7078081036584181761-WEh0?utm_source=share&utm_medium=member_desktop)
+[<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/bf3d9549-948c-4b9e-ae91-de98707b7944" width ="200">](https://www.linkedin.com/posts/ali-el-saka-95a752273_%D9%88%D9%83%D8%A7%D9%86-%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%83-%D8%B9%D8%B8%D9%8A%D9%85%D8%A7-my-graduation-activity-7078081036584181761-WEh0?utm_source=share&utm_medium=member_desktop)  
 
-
-
-
-
- 
-
-
-
-
-
-
+#### contact me  
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width ="40">](https://www.linkedin.com/in/ali-el-saka-95a752273)  
