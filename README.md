@@ -16,7 +16,7 @@
 • *Integration with Google Maps*  
 • *Search and Filter*  
 • *handle customers reservations using FireStore*  
-• *in-App chat*
+• *in-App chat*  
 • *Rating and Review*  
 • *Craftman profile*  
 • *QR Code Confirmation*  
@@ -69,7 +69,55 @@ allows customers to search for craftsmen, and filter the result by nearest or Hi
   <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/9a9e1ec3-b480-4e2a-8fca-e951f65df149" width ="200">
   <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/63bce6e7-0060-4761-99ea-ccb7454dfad7" width ="200">
   <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/eca62031-a80f-4a6e-82ff-fd0db68dc81f" width ="200">
-</div> 
+</div>  
+
+##### • handle customers reservations using FireStore
+-customer can send reservation for craftman  
+<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/dea605b5-1631-4740-92b9-1c063ac86771" width ="200">  
+-craftman can accept or deny the reservation  
+<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/e8f5e302-21df-4104-8e2a-c0c89c7f92c7" width ="200">  
+-reservations ordered by date  
+<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/ffeb4e8d-c656-453f-90ac-25e122a371dd" width ="200">  
+-When the craftsman completes the job, the customer must confirm the job's completion first  
+    • craftsmen side  
+ <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/3a61b9c9-82a3-496e-a99b-5404c3132419" width ="200">  
+    • customers side  
+<div>
+  <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/0e574958-67b8-4def-b07d-c4e842102edf" width ="200">
+  <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/9f0bf2dc-16fe-4387-b1bf-8e2bfeeccb46" width ="200">
+</div>  
+
+-Prevent reservation spam: Customers cannot reserve a craftsman if their ongoing  
+
+<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/25e23799-a63c-4fbd-8e4f-f3e07634e833" width ="200">  
+
+##### • in-App chat  
+customer can communicate with craftsman through an in-app chat.  
+<img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/c3822b2d-6a5b-4ea2-8410-bd1b4735f4b7" width ="200">  
+
+##### • Rating and Review  
+customer cannot confirm job completion until they have provided a rating for the craftsman  
+<div>
+  <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/831a8664-bc3b-4654-98f4-34d0a4904347" width ="200">
+  <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/b1ffb02a-571f-4abb-a60b-48f3205cb401" width ="200">
+</div>  
+
+##### • Craftman profile  
+each craftman has profile which contain his workshop,photos for his work and all customers rating and reviews  
+ <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/8952471d-15fc-498f-a0a3-f117f0845216" width ="200">  
+
+##### • QR Code Confirmation  
+Each reservation has a unique QR code, displayed when craftman press on qr icon after confirming completion from customer. To verify the financial transaction, the customer must scan the craftsman's QR code on his mobile app, streamlining the reservation removal process  
+     • craftsmen side  
+ <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/6c74501a-8c75-451b-b39c-800f43026f0a" width ="200">  
+     • customers side  
+  <img src="https://github.com/AliEl-Saka/7erfa-App/assets/125530187/f2497412-1dbf-40f0-b74c-ada1a7cbaced" width ="200">
+
+
+ 
+
+
+
 
 
 
